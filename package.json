@@ -1,8 +1,8 @@
 {
-  "name": "license-checker",
+  "name": "license-checker-custom",
   "description": "Check license info for a package",
-  "author": "Dav Glass <davglass@gmail.com>",
-  "version": "25.0.1",
+  "author": "Eduard Marbach <mail@eduard-marbach.de>",
+  "version": "25.0.3",
   "contributors": [
     "Adam Weber <adamweber01@gmail.com>",
     "Andrew Couch <andy@couchand.com>",
@@ -101,12 +101,12 @@
   },
   "preferGlobal": true,
   "bugs": {
-    "url": "http://github.com/davglass/license-checker/issues"
+    "url": "http://github.com/BlackDark/license-checker/issues"
   },
   "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
-    "url": "http://github.com/davglass/license-checker.git"
+    "url": "http://github.com/BlackDark/license-checker.git"
   },
   "nyc": {
     "check-coverage": true,
